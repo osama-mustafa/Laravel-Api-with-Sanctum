@@ -1,16 +1,16 @@
 
-## Laravel API CRUD with Sanctum Authentication
+# Laravel API CRUD with Sanctum Authentication
 
 
 ## API Documentation 
 
-# Authentication Routes
+## Authentication Routes
 
 - Register (/register) [POST]
 - Login (/login)  [POST]
 - Logout (/Logout)  [POST]
 
-# CRUD Routes         ||  Routes             || HTTP Verb
+## CRUD Routes         ||  Routes             || HTTP Verb
 
 - Get All Products    ||  (/products)        || [GET]
 - Show Product        ||  (/products/{id})   || [GET]
