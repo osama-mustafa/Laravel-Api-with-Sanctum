@@ -15,7 +15,6 @@
 - Get All Products    ||  (/products)        || [GET]
 - Show Product        ||  (/products/{id})   || [GET]
 - Store New Product   ||  (/products)        || [POST]
-- Update Product      ||  (/products/{id})   || [POST]
+- Update Product      ||  (/products/{id})   || [PUT] or [PATCH]  
 - Delete Product      ||  (/products/{id}    || [DELETE]
-
 
