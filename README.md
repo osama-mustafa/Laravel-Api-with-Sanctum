@@ -6,9 +6,9 @@
 
 ## Authentication Routes
 
-- Register (/register) [POST]
-- Login (/login)  [POST]
-- Logout (/Logout)  [POST]
+- Register (/register)  [POST]
+- Login (/login)       [POST]
+- Logout (/Logout)     [POST]
 
 ## CRUD Routes         ||  Routes             || HTTP Verb
 
